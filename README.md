@@ -84,4 +84,4 @@ be
 because
 but
 …
-![image](https://user-images.githubusercontent.com/76651649/116136979-b171b580-a6db-11eb-8e72-662248b0cec5.png)
+<!-- ![image](https://user-images.githubusercontent.com/76651649/116136979-b171b580-a6db-11eb-8e72-662248b0cec5.png) -->
